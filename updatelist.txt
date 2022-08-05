@@ -1,0 +1,5 @@
+CelticSaga	08-03-22
+plugins/CelticSaga/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-celticsaga/raw/main/plugininfo.txt	248489
+plugins/CelticSaga/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-celticsaga/raw/main/cardback.jpg	241656
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1nJwrNOqe7cjRPSQKmKcHzu6BxM7wEMxR
